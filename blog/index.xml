@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on sound research</title>
+    <link>https://jaydlin.github.io/blog/</link>
+    <description>Recent content in Blogs on sound research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Jul 2021 07:33:41 -0400</lastBuildDate><atom:link href="https://jaydlin.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>welcome</title>
+      <link>https://jaydlin.github.io/blog/welcome/</link>
+      <pubDate>Mon, 19 Jul 2021 07:33:41 -0400</pubDate>
+      
+      <guid>https://jaydlin.github.io/blog/welcome/</guid>
+      <description>Open Lab for Bio-Acoustics is a space dedicated to ecosystem acoustic research and monitoring. It&amp;rsquo;s aim is to cross disciplines and knowledge between field recordists, hackers, scientists, engineers, taxonomists, environmental activists passionate of living beings and natural systems. Through exchange we hope to create relationships, networks for creativity, to raise awareness on the current ecosystem failure and the decline of species diversity.</description>
+    </item>
+    
+  </channel>
+</rss>

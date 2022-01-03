@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sound research</title>
+    <link>https://jaydlin.github.io/</link>
+    <description>Recent content on sound research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Jul 2021 07:33:41 -0400</lastBuildDate><atom:link href="https://jaydlin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://jaydlin.github.io/about/</link>
+      <pubDate>Mon, 19 Jul 2021 11:31:01 -0400</pubDate>
+      
+      <guid>https://jaydlin.github.io/about/</guid>
+      <description>110 rue Pierre Decoster 1190 Forest +33 6 61 99 73 76 user1020007@protonmail.com
+Julien Ortuno 26 / 07 / 1995, Orsay, Essonne, France.
+2018 – 2021 Collectif Fenêtre Ovale	Bruxelles
+Organisation de concerts, d&amp;rsquo;ateliers, et d&amp;rsquo;émissions radios s&amp;rsquo;intéressant aux phénomènes sonores en lien avec le vivant
+2018 – 2021 OpenLab for Bioacoustic	Bruxelles
+Discussions et organisation d&amp;rsquo;événements autour de la relation entre le son et le vivant
+2019 – 2020 Atelier radios avec le collectif Warmbed Bruxelles</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jaydlin.github.io/contact/</link>
+      <pubDate>Mon, 19 Jul 2021 09:19:19 -0400</pubDate>
+      
+      <guid>https://jaydlin.github.io/contact/</guid>
+      <description>user1020007@protonmail.com
+openlivinglab.brussels@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Artefacts</title>
+      <link>https://jaydlin.github.io/projects/</link>
+      <pubDate>Mon, 19 Jul 2021 08:52:19 -0400</pubDate>
+      
+      <guid>https://jaydlin.github.io/projects/</guid>
+      <description>Les Tustels - CareEarth design</description>
+    </item>
+    
+    <item>
+      <title>welcome</title>
+      <link>https://jaydlin.github.io/blog/welcome/</link>
+      <pubDate>Mon, 19 Jul 2021 07:33:41 -0400</pubDate>
+      
+      <guid>https://jaydlin.github.io/blog/welcome/</guid>
+      <description>Open Lab for Bio-Acoustics is a space dedicated to ecosystem acoustic research and monitoring. It&amp;rsquo;s aim is to cross disciplines and knowledge between field recordists, hackers, scientists, engineers, taxonomists, environmental activists passionate of living beings and natural systems. Through exchange we hope to create relationships, networks for creativity, to raise awareness on the current ecosystem failure and the decline of species diversity.</description>
+    </item>
+    
+    <item>
+      <title>acoustic research</title>
+      <link>https://jaydlin.github.io/posts/-this-my-some-content/</link>
+      <pubDate>Sat, 17 Jul 2021 10:05:18 -0400</pubDate>
+      
+      <guid>https://jaydlin.github.io/posts/-this-my-some-content/</guid>
+      <description>Open Lab for Bio-Acoustics is a space dedicated to ecosystem acoustic research and monitoring. It&amp;rsquo;s aim is to cross disciplines and knowledge between field recordists, hackers, scientists, engineers, taxonomists, environmental activists passionate of living beings and natural systems. Through exchange we hope to create relationships, networks for creativity, to raise awareness on the current ecosystem failure and the decline of species diversity.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://jaydlin.github.io/posts/projects/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaydlin.github.io/posts/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
